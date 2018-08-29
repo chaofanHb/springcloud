@@ -1,0 +1,21 @@
+micro-service/.idea/*
+micro-service/target/*
+micro-service/*.iml
+
+micro-service-consumer/.idea/*
+micro-service-consumer/target/*
+micro-service-consumer/*.iml
+
+micro-service-replicas/.idea/*
+micro-service-replicas/target/*
+micro-service-replicas/*.iml
+
+register-center/.idea/*
+register-center/target/*
+register-center/*.iml
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
